@@ -1,0 +1,26 @@
+.group {
+    width: 100%;
+    padding: 20px;
+}
+  
+#validation {
+    width: 100%;
+    padding: 20px;
+    margin-bottom: 50px;
+}
+  
+#red {
+    color: rgb(197, 57, 57);
+    float: right;
+    font-style: normal;
+    margin-right: 30px;
+}
+  
+select {
+    width: 90%;
+    height: 50px;
+    padding: 5px;
+    font-size: 20px;
+    color: rgb(139, 139, 139);
+}
+  
